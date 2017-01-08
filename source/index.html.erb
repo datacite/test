@@ -1,0 +1,25 @@
+---
+title: DataCite Test Services
+description: We run all our services for testing purposes.
+---
+<div class="wrapper">
+  <!-- https://www.pexels.com/photo/crowd-in-front-of-stage-70222/ -->
+  <div class="landing-header" style="background-image: url('//<%= ENV['CDN_HOST'] %>/images/test/landing.jpg');">
+    <div class="container">
+      <div class="motto">
+        <h1><%= current_page.data.title %></h1>
+        <p><%= current_page.data.description %></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section section-white">
+    <div class="container-fluid">
+      <div class="row row-section">
+        <div class="col-md-8 col-md-offset-2">
+          <%= partial "one.html.md" %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
