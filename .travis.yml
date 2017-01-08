@@ -9,7 +9,7 @@ before_install:
   - rm pandoc-1.15.2-1-amd64.deb
 
 script:
-  - bundle exec middleman build -e
+  - bundle exec middleman build -e production
 
 deploy:
   provider: s3
