@@ -42,6 +42,9 @@ test_links:
  - name: Search
    url: https://search.test.datacite.org
    icon: search
+ - name: OAI-PMH
+   url: https://oai.test.datacite.org
+   icon: table
  - name: Content Resolver
    url: https://data.test.datacite.org
    icon: repeat
