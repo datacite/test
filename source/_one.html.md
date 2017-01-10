@@ -3,7 +3,7 @@ We run all our services for testing purposes. This is a closed system, so minted
 ### [Metadata Store (MDS)](https://mds.test.datacite.org)
 This is a development version of the MDS. It is configured as close as possible to our production version of MDS. If you need an account please send a e-mail to [tech@datacite.org](mailto:tech@datacite.org).
 
-### [Handle Server](https://search.test.datacite.org)
+### [Handle Server](https://handle.test.datacite.org)
 A Handle Server for testing purposes. It is not connected to the Global Handle Registry.
 
 ### [Schema](https://schema.test.datacite.org)
