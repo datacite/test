@@ -14,6 +14,3 @@ This test search instance pulls the latest updates from the MDS every 10 minutes
 
 ### [OAI-PMH](https://oai.test.datacite.org)
 Test OAI-PMH instance.
-
-### [Content Resolver](https://data.test.datacite.org)
-Test content resolver instance.
