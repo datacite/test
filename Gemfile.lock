@@ -113,7 +113,7 @@ GEM
     pandoc-ruby (2.0.1)
     parallel (1.11.1)
     public_suffix (2.0.5)
-    rack (2.0.1)
+    rack (2.2.2)
     rack-livereload (0.3.16)
       rack
     rack-test (0.6.3)
